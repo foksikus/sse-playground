@@ -1,0 +1,9 @@
+<div class="center margin">
+  <span>{{ data }}%</span>
+</div>
+<div class="bar-wrapper">
+  <div class="bar" [style.width.%]="data"></div>
+</div>
+<div class="center margin">
+  <button (click)="sendRequest()">Go!</button>
+</div>
