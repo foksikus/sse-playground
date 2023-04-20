@@ -1,6 +1,7 @@
 {
-  "name": "server-sent-client",
-  "version": "0.0.0",
+  "name": "sse-client",
+  "version": "1.0.0",
+  "author": "FokS",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
